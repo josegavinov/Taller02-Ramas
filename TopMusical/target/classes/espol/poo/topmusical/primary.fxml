@@ -38,7 +38,9 @@
       </VBox>
    </right>
    <top>
+
       <Label text="MI TOP 10" BorderPane.alignment="CENTER">
+
          <font>
             <Font name="System Bold" size="24.0" />
          </font>
