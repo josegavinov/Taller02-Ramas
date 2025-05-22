@@ -39,6 +39,7 @@
    </right>
    <top>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
       <Label text="MI TOP 10" BorderPane.alignment="CENTER">
@@ -91,6 +92,8 @@
    </right>
    <top>
 >>>>>>> 9e1a89ec31cd8cecc97d478c7762610e3886a54b
+=======
+>>>>>>> origin/orden
       <Label text="RadioXYZ Top 10" BorderPane.alignment="CENTER">
          <font>
             <Font name="System Bold" size="24.0" />

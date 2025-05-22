@@ -97,7 +97,11 @@ public class Cancion implements Comparable<Cancion> {
 
     @Override
     public int compareTo(Cancion o) {
+<<<<<<< HEAD
         return o.posActual - posActual ;
+=======
+        return o.posActual -posActual ;
+>>>>>>> origin/orden
     }
 
 }
